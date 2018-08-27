@@ -11,9 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/razorpay/react-native-razorpay.git"
   },
-  "dependencies": {
-    "react-native": ">=0.55.0"
-  },
   "peerDependencies": {
     "react-native": ">=0.55.0"
   },
